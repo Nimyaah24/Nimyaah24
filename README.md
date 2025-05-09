@@ -1,6 +1,4 @@
-# Hi there, I'm NIMYA K J!
-
-## Web Development
+# NIMYA K J
 
 ### Tech Stack:
 
