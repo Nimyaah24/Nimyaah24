@@ -40,4 +40,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimyaah24&layout=compact&theme=radical)
 
 ## Connect with Me
-- *LinkedIn:* [www.linkedin.com/in/nimya-k-j-4b1b85282]
+- **LinkedIn**: [Nimya K J](https://www.linkedin.com/in/nimya-k-j-4b1b85282)
