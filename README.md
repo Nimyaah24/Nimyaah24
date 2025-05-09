@@ -15,6 +15,11 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-005571?logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-292929?logo=json&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui)
@@ -27,7 +32,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
-
 
 ## GitHub Stats
 
