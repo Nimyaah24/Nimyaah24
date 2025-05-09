@@ -28,6 +28,7 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimyaah24&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimyaah24&layout=compact&theme=radical)
 
 ## Connect with Me
